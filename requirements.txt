@@ -1,0 +1,2 @@
+colorama==0.4.6
+pycountry==22.3.5
